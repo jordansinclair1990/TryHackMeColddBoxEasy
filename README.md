@@ -168,7 +168,7 @@ Now that I am logged in. I looked for a way of getting a reverse shell in WordPr
 
 2. On the very right, under "Templates", select **"Header"**
 
-![step2](./screenshots/step2)
+![step2](./screenshots/step2.png)
 
 3. Replace the code in the editor with a PHP reverse shell script. I'm using this one from PenTestMonkey: http://pentestmonkey.net/tools/php-reverse-shell/php-reverse-shell-1.0.tar.gz
 
